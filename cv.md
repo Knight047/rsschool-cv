@@ -18,6 +18,7 @@ Telegram: @Knight_047
 My name is Eldar, I am a project manager in an oil and gas engineering company. I am 27 years old. 5 years ago I graduated from the Higher Economic University and since then I have been building a career in the chosen direction. But lately my profession has ceased to bring me pleasure. To date, I have become interested in programming on my own and, by a lucky chance, found courses at the RSSchool school. I believe that I will be able to master the profession of a Frontend developer and finally do what I love to do programming.  
 ***********
 ## Hobby
+* Programming
 * Rock music is one love!
 * Tatto
 * Guitar
