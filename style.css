@@ -35,3 +35,21 @@ body {
     background-color: black; 
     color: rgb(255, 255, 255);
 }
+
+.center {
+    display: inline-block}
+    ul {
+    text-align: left;
+    }
+
+.pic {
+    width: 120px;
+}
+
+.site {
+    display: inline;
+    justify-content:end ;
+    padding: auto;
+    background-color:;
+    color: #000000;
+}
