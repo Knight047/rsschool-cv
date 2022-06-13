@@ -16,11 +16,17 @@ ul {
 }
 
 footer {
-    display: flex;
-    justify-content: right;
     padding: 5px;
     background-color: #7d0000;
     color: rgb(0, 0, 0);
+}
+
+.footer-container {
+        display: flex;
+        align-items: center;
+        margin: 0 auto;
+        color: #fff;
+        justify-content: space-between;
 }
 
 header {
@@ -47,9 +53,10 @@ body {
 }
 
 .site {
-    display: inline;
-    justify-content:end ;
-    padding: auto;
-    background-color:;
+    color: #000000;
+}
+
+.git {
+    padding: 10px 15px;
     color: #000000;
 }
