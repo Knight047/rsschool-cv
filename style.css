@@ -1,3 +1,15 @@
 .h1font {
     font-style: oblique;
 }
+
+.font2 {
+    font-style: border;
+}
+
+.content {
+text-align:  center;
+}
+
+ul {
+    text-align: center;
+}
