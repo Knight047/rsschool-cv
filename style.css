@@ -60,3 +60,8 @@ body {
     padding: 10px 15px;
     color: #000000;
 }
+
+.pre {
+    display: inline-block;
+    text-align: left;
+}
