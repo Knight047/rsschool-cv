@@ -19,6 +19,7 @@ footer {
     padding: 5px;
     background-color: #7d0000;
     color: rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 .footer-container {
@@ -31,10 +32,13 @@ footer {
 
 header {
     display: flex;
-    justify-content: left;
+    justify-content:baseline;
     padding: 5px;
     background-color: #7d0000;
     color: rgb(0, 0, 0);
+    font-family:fantasy;
+    letter-spacing: 5px;
+    
 }
 
 body {
@@ -64,4 +68,20 @@ body {
 .pre {
     display: inline-block;
     text-align: left;
+}
+
+.profile-photo {
+    width: 200px;
+    height: 250px;
+    border-radius: 30%;
+    object-fit: cover;
+}
+
+.nav-txt {
+    display:flexbox;
+    justify-content: left;
+    padding: 5px;
+    color: rgb(0, 0, 0);
+    font-family:fantasy;
+    letter-spacing: 5px;
 }
