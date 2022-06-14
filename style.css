@@ -46,7 +46,7 @@ body {
     background-color: black; 
     color: rgb(255, 255, 255);
     margin: 0;
-    height: 200vh;
+    height: 100vh;
     font-weight: 100;
     background: radial-gradient(#4d0000,#000000);
 }
@@ -99,4 +99,10 @@ body {
     font-family:fantasy;
     letter-spacing: 2px;
     text-decoration: none;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
